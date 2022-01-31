@@ -3,7 +3,7 @@ This repository contains codes and exmaples for the analysis done for an article
 by leveraging a genomic prediction model".
 Contact: v.arief1@uq.edu.au
 
-There are 9 files:
+There are 10 files:
 1. REML_Analysis.as: parameter file for running the models in ASREML
 2. Visualisation_Code.r: R script to generate plots
 3. BLUP.csv: BLUP from the analysis used as an example for the visualisation
